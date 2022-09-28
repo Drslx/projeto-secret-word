@@ -1,7 +1,7 @@
 # projeto-secret-word
 
 
-![project](/public/images/secretword-project.png)
+![](/public/images/secretword-project.png)
 
 # Getting Started with Create React App
 
