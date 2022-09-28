@@ -72,7 +72,6 @@ const Game = ({
           <button>Jogar!</button>
         </form>
       </div>
-
       <div className="wrongLetterContainer">
         <p>Letras ja utilizadas:</p>
         {wrongLetters.map((letter, i) => (
